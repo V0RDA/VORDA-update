@@ -1,5 +1,10 @@
 # Обновления VORDA Launcher
 
+## Действующий лаунчер
+
+[Установщик VORDA Launcher 1.2.39 для Windows x64](https://github.com/V0RDA/VORDA-update/releases/tag/squirrel-v1.2.39). Установленные версии на Electron обновляются по каналу Squirrel на playvorda.ru.
+
+## Канал Tauri 2
 Публичный канал Windows x64 для подписанных установщиков VORDA на Tauri 2. Файлы выпусков хранятся в разделе [Releases](https://github.com/V0RDA/VORDA-update/releases).
 
 ## Публикация новой версии
